@@ -7,5 +7,5 @@ https://github.com/jacklt/EasyRainbowHat/blob/master/app/src/main/java/it/juston
 Example:
 https://github.com/jacklt/EasyRainbowHat/blob/master/app/src/main/java/it/justonetouch/thingtest/MainActivity.kt
 
-Video:
-https://goo.gl/photos/eEVbJEaH55WEFexC6
+## Preview
+![Video preview](https://github.com/jacklt/EasyRainbowHat/blob/master/easy-rainbow-hat-preview.gif?raw=true)
